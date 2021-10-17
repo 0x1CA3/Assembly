@@ -15,8 +15,10 @@
 Samples & Concepts  |
 -------- |
 Labels |
+While loops |
 Creating a folder |
 Getting user input |
+Calling C functions |
 Printing text to the screen |
 Display the current directory 
   
