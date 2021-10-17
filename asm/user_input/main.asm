@@ -34,6 +34,8 @@ _start:
 	xor rax, rax
 	xor rdi, rdi
 	xor rdx, rdx
+	mov rax, 60
+	mov rdi, 1
 	syscall
 	ret
 
