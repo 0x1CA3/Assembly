@@ -10,7 +10,7 @@ example:
 	syscall
 	cmp rax, 1
 	call _clear
-	jmp example
+	je example
 
 _clear:
 	xor rax, rax
