@@ -19,6 +19,6 @@ _clear:
 	xor rdx, rdx
 	ret
 
-section .data
+section .rodata
 	string: db "This will go on forever...", 0x0a, 0x00
 	length: equ $ - string
