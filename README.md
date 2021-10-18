@@ -21,8 +21,9 @@ Creating a folder |
 Getting user input |
 Calling C functions |
 Printing text to the screen |
-Display the current directory 
-  
+Display the current directory |
+Basic mathematical operations |
+
 ## Credits
 ```
 https://github.com/0x1CA3
