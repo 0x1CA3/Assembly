@@ -17,6 +17,7 @@ Samples & Concepts  |
 Labels |
 While loops |
 Renaming File |
+Conditional Jumps |
 Creating a folder |
 Getting user input |
 Calling C functions |
