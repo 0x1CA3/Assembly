@@ -18,6 +18,7 @@ Labels |
 While loops |
 Renaming File |
 Conditional Jumps |
+Memory allocation |
 Creating a folder |
 Getting user input |
 Calling C functions |
