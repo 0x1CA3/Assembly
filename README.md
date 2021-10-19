@@ -19,8 +19,8 @@ While loops |
 Renaming File |
 Creating a folder |
 Conditional Jumps |
-Memory allocation |
 Getting user input |
+Memory allocation |
 Calling C functions |
 Printing text to the screen |
 Display the current directory |
